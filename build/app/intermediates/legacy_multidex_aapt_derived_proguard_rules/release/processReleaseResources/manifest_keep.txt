@@ -1,0 +1,2 @@
+# Referenced at /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/app/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:28
+-keep class io.flutter.app.FlutterApplication { <init>(...); }

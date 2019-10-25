@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_auth/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/cb932e9e81248e760e4ecd497a918caa/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_auth/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/cb932e9e81248e760e4ecd497a918caa/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_auth/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/cb932e9e81248e760e4ecd497a918caa/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_auth/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/cb932e9e81248e760e4ecd497a918caa/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

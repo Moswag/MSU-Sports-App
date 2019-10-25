@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "955009983152",
+    "firebase_url": "https://msu-sports-app.firebaseio.com",
+    "project_id": "msu-sports-app",
+    "storage_bucket": "msu-sports-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955009983152:android:b0a3955f06c54555991175",
+        "android_client_info": {
+          "package_name": "zw.co.cytex.msu_sports_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955009983152-dke14htlug4g5qrpsr8665jp9q6jh7s9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zw.co.cytex.msu_sports_app",
+            "certificate_hash": "8c6371fc3a4360ee04ef578cee99eca419667923"
+          }
+        },
+        {
+          "client_id": "955009983152-7ptvv0nkr1uocseee9sqddbvlfo4gf9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsQGZVlctRhRD0WOSR7f9iajtSTc6TXHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955009983152-7ptvv0nkr1uocseee9sqddbvlfo4gf9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

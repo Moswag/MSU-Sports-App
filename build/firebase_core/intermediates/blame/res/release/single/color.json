@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_core/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/6c51bc6b646e1adb39440e509427a77b/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_core/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/6c51bc6b646e1adb39440e509427a77b/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_core/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/6c51bc6b646e1adb39440e509427a77b/res/color/common_google_signin_btn_tint.xml"
+    }
+]

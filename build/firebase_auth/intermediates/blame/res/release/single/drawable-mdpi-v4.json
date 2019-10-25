@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_auth/intermediates/res/merged/release/drawable-mdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/6c51bc6b646e1adb39440e509427a77b/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_auth/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/6c51bc6b646e1adb39440e509427a77b/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_auth/intermediates/res/merged/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/cb932e9e81248e760e4ecd497a918caa/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_auth/intermediates/res/merged/release/drawable-mdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/6c51bc6b646e1adb39440e509427a77b/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_auth/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/cb932e9e81248e760e4ecd497a918caa/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_auth/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/cb932e9e81248e760e4ecd497a918caa/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_auth/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/cb932e9e81248e760e4ecd497a918caa/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_auth/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/cb932e9e81248e760e4ecd497a918caa/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_auth/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/6c51bc6b646e1adb39440e509427a77b/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_auth/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/6c51bc6b646e1adb39440e509427a77b/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_auth/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/6c51bc6b646e1adb39440e509427a77b/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    }
+]

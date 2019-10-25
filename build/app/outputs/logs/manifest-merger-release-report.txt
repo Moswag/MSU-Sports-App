@@ -1,0 +1,525 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:1:1-42:12
+MERGED from [:firebase_storage] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_storage/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/sqflite/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_bluetooth_serial] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/flutter_bluetooth_serial/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:path_provider] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/path_provider/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:cloud_firestore] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/cloud_firestore/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_database] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_database/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/shared_preferences/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_core] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_core/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_auth] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_auth/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/37852f732b08347762348874f98e587d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-storage-16.0.3.aar/61e842c39f2856d12b15c35876f652fa/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/ff6506e47158940ecfa3749ada1826f8/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-database:16.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-database-16.0.3.aar/0dc4c12abf34bbbf5b7b3defc582b5bd/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/87e2639a7fc0210fdb0a71ff1e3a99c9/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-16.0.1.aar/a34ba864a54711268a3383f7533f324d/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/c13a32af7da8ed978b31c19b46b298e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/f26c00d7ee36a8f6ef2e0f1141a36875/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4015fa28157382407462397e32977028/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.2.aar/897dba13f2fa29a51e59e14c83a0efc5/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/92afa3dd14b1ee1f8d23a1d83bb7aa16/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/2077fe716937f7f9a828f297eaa8ad90/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/6c51bc6b646e1adb39440e509427a77b/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.1.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.1.0.aar/a33fc1ed65fde4c5578fa2c5f48dda7b/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/a1f693eacf9bab270f54f7d4b9ea216c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/180857385f33d3109908eecfd3a43a7b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/ec28e8b618032b66b6ebc89a55b4c057/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/ac26fc223ef86c59197e42cd543f81d4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/dccb362c03cc7c9a865c750beb2f62aa/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0-rc01.aar/b93b2471d07ae8c9a777a0caa28af811/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/df18db4aaa9997b97fe652f6c7b2c102/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/2655d571a03cfdf0072054c13af83f1f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/4fcd4ba1dbde518c6f037fa07cd9d9ba/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/a29fe79a8f71d9fc574965ff7afe98f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/cad353f37595ad7540ce1b8a1399ddd2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/382b112c56bc99fc8f5bca690469351d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/f2139ce1e327ff05b2c457a0ed82b82c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc01.aar/c4b2503bb2154258a8de634ac2375fa0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-rc01.aar/c9119ed9752b185b2f9349f0d78a4802/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-rc01.aar/6d4769bdb889981cf083a02a051b505a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-rc01.aar/d48a3a90a51d5f20bf0e5867672f3a5a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/b0c32f9dbd806c89f6f08ab696482f15/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/cb932e9e81248e760e4ecd497a918caa/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-rc01.aar/4b26d107d7f8a25966c246d62216a2a9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-rc01.aar/61f882a22f6cc566ced0ebae73381a57/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-rc01.aar/496f1aa7260fa4e8b7fb92d9e056d51b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/031d44f144c535aebeb0531e6b50a329/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/31bc2b2b87169579bea3177ae4ecdf92/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/8a011b4c2bef296fdf81b83705e867b4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/6f7d2b849d1554df51e2e482f1d908e2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/4586c378b315dda6f64eafd94f7b0d42/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/2067751fcde7d6b7d2ae32045e071e1d/AndroidManifest.xml:17:1-22:12
+MERGED from [io.grpc:grpc-android:1.16.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/8527b04c97663969f31e1350de4b83b7/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/4f358e40392a728dd42bf84ed3995119/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.1.aar/4864d00d9e7bc80cf18206750ff099e4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/62f33ab9a87c9879d3ee3cc53031ff7d/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/5cf5256150af1c7a3a2b419c701b2a6a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:1:1-42:12
+	package
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:1:1-42:12
+		INJECTED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:1:1-42:12
+		INJECTED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:10:5-82
+INJECTED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:10:5-82
+INJECTED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:10:5-82
+MERGED from [:firebase_storage] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_storage/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_storage/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/sqflite/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/sqflite/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_bluetooth_serial] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/flutter_bluetooth_serial/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_bluetooth_serial] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/flutter_bluetooth_serial/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/path_provider/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/path_provider/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/cloud_firestore/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/cloud_firestore/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_database] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_database/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_database] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_database/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/shared_preferences/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/shared_preferences/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_core/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_core/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_auth/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/firebase_auth/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/37852f732b08347762348874f98e587d/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/37852f732b08347762348874f98e587d/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-storage-16.0.3.aar/61e842c39f2856d12b15c35876f652fa/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-storage-16.0.3.aar/61e842c39f2856d12b15c35876f652fa/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/ff6506e47158940ecfa3749ada1826f8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/ff6506e47158940ecfa3749ada1826f8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:16.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-database-16.0.3.aar/0dc4c12abf34bbbf5b7b3defc582b5bd/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-database-16.0.3.aar/0dc4c12abf34bbbf5b7b3defc582b5bd/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/87e2639a7fc0210fdb0a71ff1e3a99c9/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/87e2639a7fc0210fdb0a71ff1e3a99c9/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-16.0.1.aar/a34ba864a54711268a3383f7533f324d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-16.0.1.aar/a34ba864a54711268a3383f7533f324d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/c13a32af7da8ed978b31c19b46b298e0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/c13a32af7da8ed978b31c19b46b298e0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/f26c00d7ee36a8f6ef2e0f1141a36875/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/f26c00d7ee36a8f6ef2e0f1141a36875/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4015fa28157382407462397e32977028/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4015fa28157382407462397e32977028/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.2.aar/897dba13f2fa29a51e59e14c83a0efc5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.2.aar/897dba13f2fa29a51e59e14c83a0efc5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/92afa3dd14b1ee1f8d23a1d83bb7aa16/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/92afa3dd14b1ee1f8d23a1d83bb7aa16/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/2077fe716937f7f9a828f297eaa8ad90/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/2077fe716937f7f9a828f297eaa8ad90/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/6c51bc6b646e1adb39440e509427a77b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/6c51bc6b646e1adb39440e509427a77b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.1.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.1.0.aar/a33fc1ed65fde4c5578fa2c5f48dda7b/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:16.1.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.1.0.aar/a33fc1ed65fde4c5578fa2c5f48dda7b/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/a1f693eacf9bab270f54f7d4b9ea216c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/a1f693eacf9bab270f54f7d4b9ea216c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/180857385f33d3109908eecfd3a43a7b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/180857385f33d3109908eecfd3a43a7b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/ec28e8b618032b66b6ebc89a55b4c057/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/ec28e8b618032b66b6ebc89a55b4c057/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/ac26fc223ef86c59197e42cd543f81d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/ac26fc223ef86c59197e42cd543f81d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/dccb362c03cc7c9a865c750beb2f62aa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/dccb362c03cc7c9a865c750beb2f62aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0-rc01.aar/b93b2471d07ae8c9a777a0caa28af811/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0-rc01.aar/b93b2471d07ae8c9a777a0caa28af811/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/df18db4aaa9997b97fe652f6c7b2c102/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/df18db4aaa9997b97fe652f6c7b2c102/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/2655d571a03cfdf0072054c13af83f1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/2655d571a03cfdf0072054c13af83f1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/4fcd4ba1dbde518c6f037fa07cd9d9ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/4fcd4ba1dbde518c6f037fa07cd9d9ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/a29fe79a8f71d9fc574965ff7afe98f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/a29fe79a8f71d9fc574965ff7afe98f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/cad353f37595ad7540ce1b8a1399ddd2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/cad353f37595ad7540ce1b8a1399ddd2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/382b112c56bc99fc8f5bca690469351d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/382b112c56bc99fc8f5bca690469351d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/f2139ce1e327ff05b2c457a0ed82b82c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/f2139ce1e327ff05b2c457a0ed82b82c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc01.aar/c4b2503bb2154258a8de634ac2375fa0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc01.aar/c4b2503bb2154258a8de634ac2375fa0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-rc01.aar/c9119ed9752b185b2f9349f0d78a4802/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-rc01.aar/c9119ed9752b185b2f9349f0d78a4802/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-rc01.aar/6d4769bdb889981cf083a02a051b505a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-rc01.aar/6d4769bdb889981cf083a02a051b505a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-rc01.aar/d48a3a90a51d5f20bf0e5867672f3a5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-rc01.aar/d48a3a90a51d5f20bf0e5867672f3a5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/b0c32f9dbd806c89f6f08ab696482f15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/b0c32f9dbd806c89f6f08ab696482f15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/cb932e9e81248e760e4ecd497a918caa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/cb932e9e81248e760e4ecd497a918caa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-rc01.aar/4b26d107d7f8a25966c246d62216a2a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-rc01.aar/4b26d107d7f8a25966c246d62216a2a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-rc01.aar/61f882a22f6cc566ced0ebae73381a57/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-rc01.aar/61f882a22f6cc566ced0ebae73381a57/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-rc01.aar/496f1aa7260fa4e8b7fb92d9e056d51b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-rc01.aar/496f1aa7260fa4e8b7fb92d9e056d51b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/031d44f144c535aebeb0531e6b50a329/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/031d44f144c535aebeb0531e6b50a329/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/31bc2b2b87169579bea3177ae4ecdf92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/31bc2b2b87169579bea3177ae4ecdf92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/8a011b4c2bef296fdf81b83705e867b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/8a011b4c2bef296fdf81b83705e867b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/6f7d2b849d1554df51e2e482f1d908e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/6f7d2b849d1554df51e2e482f1d908e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/4586c378b315dda6f64eafd94f7b0d42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/4586c378b315dda6f64eafd94f7b0d42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/2067751fcde7d6b7d2ae32045e071e1d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/2067751fcde7d6b7d2ae32045e071e1d/AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.16.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/8527b04c97663969f31e1350de4b83b7/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/8527b04c97663969f31e1350de4b83b7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/4f358e40392a728dd42bf84ed3995119/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/4f358e40392a728dd42bf84ed3995119/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.1.aar/4864d00d9e7bc80cf18206750ff099e4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.1.aar/4864d00d9e7bc80cf18206750ff099e4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/62f33ab9a87c9879d3ee3cc53031ff7d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/62f33ab9a87c9879d3ee3cc53031ff7d/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/5cf5256150af1c7a3a2b419c701b2a6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/5cf5256150af1c7a3a2b419c701b2a6a/AndroidManifest.xml:20:5-44
+INJECTED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:10:5-82
+INJECTED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:10:5-82
+	tools:overrideLibrary
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:10:15-80
+	android:targetSdkVersion
+		INJECTED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:10:5-82
+		INJECTED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:10:5-82
+		INJECTED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:11:5-68
+MERGED from [:flutter_bluetooth_serial] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/flutter_bluetooth_serial/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-68
+MERGED from [:flutter_bluetooth_serial] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/flutter_bluetooth_serial/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:12:5-74
+MERGED from [:flutter_bluetooth_serial] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/flutter_bluetooth_serial/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:8:5-74
+MERGED from [:flutter_bluetooth_serial] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/flutter_bluetooth_serial/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:12:22-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-storage-16.0.3.aar/61e842c39f2856d12b15c35876f652fa/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-storage-16.0.3.aar/61e842c39f2856d12b15c35876f652fa/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/ff6506e47158940ecfa3749ada1826f8/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/ff6506e47158940ecfa3749ada1826f8/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-database-16.0.3.aar/0dc4c12abf34bbbf5b7b3defc582b5bd/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-database-16.0.3.aar/0dc4c12abf34bbbf5b7b3defc582b5bd/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4015fa28157382407462397e32977028/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4015fa28157382407462397e32977028/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/92afa3dd14b1ee1f8d23a1d83bb7aa16/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/92afa3dd14b1ee1f8d23a1d83bb7aa16/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:22:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/8527b04c97663969f31e1350de4b83b7/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/8527b04c97663969f31e1350de4b83b7/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:15:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-storage-16.0.3.aar/61e842c39f2856d12b15c35876f652fa/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-storage-16.0.3.aar/61e842c39f2856d12b15c35876f652fa/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/ff6506e47158940ecfa3749ada1826f8/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/ff6506e47158940ecfa3749ada1826f8/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-database-16.0.3.aar/0dc4c12abf34bbbf5b7b3defc582b5bd/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-database-16.0.3.aar/0dc4c12abf34bbbf5b7b3defc582b5bd/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4015fa28157382407462397e32977028/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4015fa28157382407462397e32977028/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/92afa3dd14b1ee1f8d23a1d83bb7aa16/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/92afa3dd14b1ee1f8d23a1d83bb7aa16/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:15:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:16:5-69
+	android:name
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:16:22-66
+application
+ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:18:5-41:19
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/ff6506e47158940ecfa3749ada1826f8/AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.firebase:firebase-firestore:18.2.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/ff6506e47158940ecfa3749ada1826f8/AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/87e2639a7fc0210fdb0a71ff1e3a99c9/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/87e2639a7fc0210fdb0a71ff1e3a99c9/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-16.0.1.aar/a34ba864a54711268a3383f7533f324d/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-16.0.1.aar/a34ba864a54711268a3383f7533f324d/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-core:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/f26c00d7ee36a8f6ef2e0f1141a36875/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/f26c00d7ee36a8f6ef2e0f1141a36875/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4015fa28157382407462397e32977028/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4015fa28157382407462397e32977028/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.2.aar/897dba13f2fa29a51e59e14c83a0efc5/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.2.aar/897dba13f2fa29a51e59e14c83a0efc5/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/92afa3dd14b1ee1f8d23a1d83bb7aa16/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/92afa3dd14b1ee1f8d23a1d83bb7aa16/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/2077fe716937f7f9a828f297eaa8ad90/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/2077fe716937f7f9a828f297eaa8ad90/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/6c51bc6b646e1adb39440e509427a77b/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/6c51bc6b646e1adb39440e509427a77b/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.1.0.aar/a33fc1ed65fde4c5578fa2c5f48dda7b/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.1.0.aar/a33fc1ed65fde4c5578fa2c5f48dda7b/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/a1f693eacf9bab270f54f7d4b9ea216c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/a1f693eacf9bab270f54f7d4b9ea216c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/180857385f33d3109908eecfd3a43a7b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/180857385f33d3109908eecfd3a43a7b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/ec28e8b618032b66b6ebc89a55b4c057/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/ec28e8b618032b66b6ebc89a55b4c057/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/ac26fc223ef86c59197e42cd543f81d4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/ac26fc223ef86c59197e42cd543f81d4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/dccb362c03cc7c9a865c750beb2f62aa/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/dccb362c03cc7c9a865c750beb2f62aa/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/cb932e9e81248e760e4ecd497a918caa/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/cb932e9e81248e760e4ecd497a918caa/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/031d44f144c535aebeb0531e6b50a329/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/031d44f144c535aebeb0531e6b50a329/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/62f33ab9a87c9879d3ee3cc53031ff7d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/62f33ab9a87c9879d3ee3cc53031ff7d/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0-rc01] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/cb932e9e81248e760e4ecd497a918caa/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:20:9-32
+	android:icon
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:21:9-41
+	android:name
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:19:9-57
+activity#zw.co.cytex.propane.MainActivity
+ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:22:9-40:20
+	android:launchMode
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:24:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:27:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:28:13-55
+	android:configChanges
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:26:13-144
+	android:theme
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:25:13-47
+	android:name
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:23:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:33:13-35:40
+	android:value
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:35:17-37
+	android:name
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:34:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:37:17-68
+	android:name
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/android/app/src/main/AndroidManifest.xml:38:27-74
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:flutter_bluetooth_serial] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/flutter_bluetooth_serial/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:flutter_bluetooth_serial] /Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/flutter_bluetooth_serial/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:9:22-78
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-firestore:18.2.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/ff6506e47158940ecfa3749ada1826f8/AndroidManifest.xml:17:9-21:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/87e2639a7fc0210fdb0a71ff1e3a99c9/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/87e2639a7fc0210fdb0a71ff1e3a99c9/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4015fa28157382407462397e32977028/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4015fa28157382407462397e32977028/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/87e2639a7fc0210fdb0a71ff1e3a99c9/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:18.2.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/ff6506e47158940ecfa3749ada1826f8/AndroidManifest.xml:17:18-89
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:18.2.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/ff6506e47158940ecfa3749ada1826f8/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:18.2.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/ff6506e47158940ecfa3749ada1826f8/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:18.2.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-18.2.0.aar/ff6506e47158940ecfa3749ada1826f8/AndroidManifest.xml:19:17-111
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/87e2639a7fc0210fdb0a71ff1e3a99c9/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/87e2639a7fc0210fdb0a71ff1e3a99c9/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/87e2639a7fc0210fdb0a71ff1e3a99c9/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/87e2639a7fc0210fdb0a71ff1e3a99c9/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/87e2639a7fc0210fdb0a71ff1e3a99c9/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/87e2639a7fc0210fdb0a71ff1e3a99c9/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/87e2639a7fc0210fdb0a71ff1e3a99c9/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/87e2639a7fc0210fdb0a71ff1e3a99c9/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/87e2639a7fc0210fdb0a71ff1e3a99c9/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/87e2639a7fc0210fdb0a71ff1e3a99c9/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-16.0.5.aar/87e2639a7fc0210fdb0a71ff1e3a99c9/AndroidManifest.xml:37:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4015fa28157382407462397e32977028/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/92afa3dd14b1ee1f8d23a1d83bb7aa16/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/92afa3dd14b1ee1f8d23a1d83bb7aa16/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4015fa28157382407462397e32977028/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4015fa28157382407462397e32977028/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4015fa28157382407462397e32977028/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.2.aar/4015fa28157382407462397e32977028/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/92afa3dd14b1ee1f8d23a1d83bb7aa16/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/92afa3dd14b1ee1f8d23a1d83bb7aa16/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/92afa3dd14b1ee1f8d23a1d83bb7aa16/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.2.aar/92afa3dd14b1ee1f8d23a1d83bb7aa16/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.4.aar/872fedb4f6f5b6f1f49ef3ab1092857d/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/ebf635ba8ebf7403abd9d8c546b03e04/AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/6c51bc6b646e1adb39440e509427a77b/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/6c51bc6b646e1adb39440e509427a77b/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/6c51bc6b646e1adb39440e509427a77b/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/6c51bc6b646e1adb39440e509427a77b/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.1.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.1.0.aar/a33fc1ed65fde4c5578fa2c5f48dda7b/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.1.0.aar/a33fc1ed65fde4c5578fa2c5f48dda7b/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.1.0.aar/a33fc1ed65fde4c5578fa2c5f48dda7b/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.1.0.aar/a33fc1ed65fde4c5578fa2c5f48dda7b/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.1.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.1.0.aar/a33fc1ed65fde4c5578fa2c5f48dda7b/AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/dccb362c03cc7c9a865c750beb2f62aa/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/dccb362c03cc7c9a865c750beb2f62aa/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.1.0.aar/dccb362c03cc7c9a865c750beb2f62aa/AndroidManifest.xml:24:13-58

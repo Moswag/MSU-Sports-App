@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>150899884484-fvmcss2hmjtf13pp5ec2in67djp7s2fp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.150899884484-fvmcss2hmjtf13pp5ec2in67djp7s2fp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>150899884484-n8qacejblep44m4ao1cm8k9bclc8h8t7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBCZgzwA5H_wPxvhflZbE42EWkXP2RJU4M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>150899884484</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>zw.co.cytex.propane</string>
+	<key>PROJECT_ID</key>
+	<string>propane-cdc5d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>propane-cdc5d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:150899884484:ios:d5ef28ec4489316e</string>
+	<key>DATABASE_URL</key>
+	<string>https://propane-cdc5d.firebaseio.com</string>
+</dict>
+</plist>

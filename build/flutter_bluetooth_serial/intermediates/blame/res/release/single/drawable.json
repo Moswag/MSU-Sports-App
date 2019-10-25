@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/flutter_bluetooth_serial/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/cb932e9e81248e760e4ecd497a918caa/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/flutter_bluetooth_serial/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/cb932e9e81248e760e4ecd497a918caa/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/flutter_bluetooth_serial/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/cb932e9e81248e760e4ecd497a918caa/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/erasmusbhunu/Desktop/PROJECTS/Work/propane_v1.2/propane/build/flutter_bluetooth_serial/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/erasmusbhunu/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/cb932e9e81248e760e4ecd497a918caa/res/drawable/notification_bg_low.xml"
+    }
+]
